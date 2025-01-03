@@ -70,7 +70,7 @@ PORT=5000
 
 ## Demo
 ### One-to-One Chat
-[[One-to-One Demo Link](https://www.youtube.com/shorts/sIJMQzxPn_E)]
+[[One-to-One Demo Link]()]
 
 ### Group Chat
 [[Group Chat Demo Link](https://www.youtube.com/watch?v=63I5kfVFjH0)]
