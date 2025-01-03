@@ -24,7 +24,7 @@ A dynamic and responsive real-time chat application built using the MERN stack. 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/naman-sethiya/Real-Time-Chat-Application.git
+git clone https://github.com/afcfelix/Real-Time-Chat-Application.git
 cd Real-Time-Chat-Application
 ```
 
